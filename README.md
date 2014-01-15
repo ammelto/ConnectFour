@@ -12,4 +12,5 @@ Each column has a button above it that represents that column.
 Pressing a button will drop your piece in the respective column.
 The player who goes first is always red.
 Once the win condition is met, a message will appear congratulating the winner and you will be asked if you wish to play again.
-At any time the game may be reset through the menu and the quit option.
+
+At any time the game may be reset through the menu and the 'New Game' option.
